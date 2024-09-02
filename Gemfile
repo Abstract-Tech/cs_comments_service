@@ -80,3 +80,4 @@ gem "rack-timeout"
 gem "i18n"
 gem "rack-contrib", :git => 'https://github.com/rack/rack-contrib.git', :ref => '6ff3ca2b2d988911ca52a2712f6a7da5e064aa27'
 
+gem 'mongo', '2.7.0'
